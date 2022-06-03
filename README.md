@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+-----------------------------
+
+My name is Iker and I am 19. I am currently studying Software Development and IT at EPITECH Barcelona. Here, I achieved to validate the first year without failing a module. I am currently searching for an internship in a company.
+
+In this github you are going to see some of my school projects. If you have any concern, don't hesitate to ask me!
+
 <!--
 **ikerpacheco/ikerpacheco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
